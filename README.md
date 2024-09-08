@@ -46,9 +46,12 @@ To run this project locally, you need the following dependencies:
 ### Usage
 
 1. **Prepare your dataset**: Place your satellite images in the appropriate folders as specified in the notebook.
+
 2. **Train the Model**: Open the `faad.ipynb` file and follow the instructions to train the model on your dataset.
 3. **Test the Model**: Upload new satellite images to test the detection model.
 
 ### Example Output
+
+<img width="1176" alt="Screenshot 2024-09-07 at 2 07 39 PM" src="https://github.com/user-attachments/assets/f773f6b9-50f0-48e7-8a74-86c49235d2f9">
 
 The model will output an annotated satellite image, with flood-affected areas clearly marked for easy identification.
