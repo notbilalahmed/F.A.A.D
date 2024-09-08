@@ -54,4 +54,5 @@ To run this project locally, you need the following dependencies:
 
 <img width="1176" alt="Screenshot 2024-09-07 at 2 07 39 PM" src="https://github.com/user-attachments/assets/f773f6b9-50f0-48e7-8a74-86c49235d2f9">
 
+
 The model will output an annotated satellite image, with flood-affected areas clearly marked for easy identification.
